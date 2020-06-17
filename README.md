@@ -13,7 +13,7 @@ type date<br>
 swipe to delete<br>
 ![](https://im3.ezgif.com/tmp/ezgif-3-59a1c8ff6f86.gif) <br>
 
-Some snippets from the app:
+Some snippets from the app: <br>
 Add new task: 
 https://ibb.co/c2rxBLH <br>
 Filling values: 
