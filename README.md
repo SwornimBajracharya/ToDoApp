@@ -1,12 +1,14 @@
 # ToDoApp
 
 ToDoApp in MVVM Observer Pattern with session data, lifecycle aware components for CRUD operations of todo tasks.
-This app was built over starter code from repo: https://github.com/binay-shah/android-todo.git/tree/starter-code
+This app was built over starter code from repo: https://github.com/binay-shah/android-todo/tree/starter-code
 
 Preview:
 
 Starting
-![alt text](https://ibb.co/HgjYtr9)
+![alt text](https://i.ibb.co/6skbH4q/Screenshot-1592415385.png)
+
+https://ibb.co/HgjYtr9
 
 Add new task
 https://ibb.co/c2rxBLH
