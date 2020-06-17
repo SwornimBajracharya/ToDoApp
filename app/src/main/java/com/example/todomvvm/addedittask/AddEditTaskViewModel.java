@@ -12,8 +12,8 @@ import com.example.todomvvm.database.TaskEntry;
 
 public class AddEditTaskViewModel extends AndroidViewModel {
 
-    Repository repository;
-    LiveData<TaskEntry> task;
+    private Repository repository;
+    private LiveData<TaskEntry> task;
 
     AddEditTaskViewModel(Application application, int taskId){
         super(application);
@@ -33,7 +33,7 @@ public class AddEditTaskViewModel extends AndroidViewModel {
     }
 
     public void updateTask(TaskEntry task){
-        repository.insertTask(task);
+        repository.updateTask(task);
     }
 
 

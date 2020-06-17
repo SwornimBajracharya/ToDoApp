@@ -13,6 +13,7 @@ import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.RadioGroup;
+import android.widget.Switch;
 
 import com.example.todomvvm.R;
 import com.example.todomvvm.database.AppDatabase;
@@ -37,12 +38,14 @@ public class AddEditTaskActivity extends AppCompatActivity {
     // Constant for logging
     private static final String TAG = AddEditTaskActivity.class.getSimpleName();
     // Fields for views
-    EditText mEditText;
-    RadioGroup mRadioGroup;
-    Button mButton;
+    private EditText mTitleText;
+    private EditText mEditText;
+    private RadioGroup mRadioGroup;
+    private Button mButton;
 
-    EditText dateText;
-    DatePickerDialog picker;
+    private EditText dateText;
+    private DatePickerDialog picker;
+    private Switch completed;
 
     private int mTaskId = DEFAULT_TASK_ID;
 
@@ -52,8 +55,6 @@ public class AddEditTaskActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_edit_task);
-
-
 
         initViews();
 
@@ -98,6 +99,7 @@ public class AddEditTaskActivity extends AppCompatActivity {
      * initViews is called from onCreate to init the member variable views
      */
     private void initViews() {
+        mTitleText = findViewById(R.id.editTextTaskTitle);
         mEditText = findViewById(R.id.editTextTaskDescription);
         mRadioGroup = findViewById(R.id.radioGroup);
 
@@ -110,13 +112,15 @@ public class AddEditTaskActivity extends AppCompatActivity {
         });
 
         dateText = findViewById(R.id.editDate);
-        dateText.setInputType(InputType.TYPE_NULL);
+        //dateText.setInputType(InputType.TYPE_NULL);
         dateText.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 setDate();
             }
         });
+
+        completed = findViewById(R.id.sCompleted);
     }
 
     public void setDate() {
@@ -144,8 +148,11 @@ public class AddEditTaskActivity extends AppCompatActivity {
         if(task == null){
             return;
         }
+        mTitleText.setText(task.getTitle());
         mEditText.setText(task.getDescription());
         setPriorityInViews(task.getPriority());
+        completed.setChecked(task.isStatus());
+        dateText.setText(task.getDueDate());
 
     }
 
@@ -155,10 +162,14 @@ public class AddEditTaskActivity extends AppCompatActivity {
      */
     public void onSaveButtonClicked() {
         // Not yet implemented
+        String title = mTitleText.getText().toString();
         String description = mEditText.getText().toString();
         int priority = getPriorityFromViews();
         Date date = new Date();
-        TaskEntry todo = new TaskEntry(description, priority, date);
+        String dueDate = dateText.getText().toString();
+        Boolean status = completed.isChecked();
+
+        TaskEntry todo = new TaskEntry(title, description, priority, date, dueDate, status);
         if(mTaskId == DEFAULT_TASK_ID)
             viewModel.insertTask(todo);
         else{

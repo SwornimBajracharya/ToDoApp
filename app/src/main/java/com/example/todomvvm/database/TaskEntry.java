@@ -12,16 +12,18 @@ public class TaskEntry {
 
     @PrimaryKey(autoGenerate = true)
     private int id;
+    private String title;
     private String description;
     private int priority;
     @ColumnInfo(name="updated_at")
     private Date updatedAt;
 
     private boolean status;
-    private Date dueDate;
+    private String dueDate;
 
     @Ignore
-    public TaskEntry(String description, int priority, Date updatedAt, Date dueDate, boolean status) {
+    public TaskEntry(String title, String description, int priority, Date updatedAt, String dueDate, boolean status) {
+        this.title = title;
         this.description = description;
         this.priority = priority;
         this.updatedAt = updatedAt;
@@ -29,8 +31,9 @@ public class TaskEntry {
         this.dueDate = dueDate;
     }
 
-    public TaskEntry(int id, String description, int priority, Date updatedAt, Date dueDate, boolean status) {
+    public TaskEntry(int id, String title, String description, int priority, Date updatedAt, String dueDate, boolean status) {
         this.id = id;
+        this.title = title;
         this.description = description;
         this.priority = priority;
         this.updatedAt = updatedAt;
@@ -78,11 +81,20 @@ public class TaskEntry {
         this.status = status;
     }
 
-    public Date getDueDate() {
+    public String getDueDate() {
         return dueDate;
     }
 
-    public void setDueDate(Date dueDate) {
+    public void setDueDate(String dueDate) {
         this.dueDate = dueDate;
     }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
 }

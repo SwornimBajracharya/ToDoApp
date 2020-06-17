@@ -15,10 +15,17 @@
 
     <!-- EditText for getttaskEntrytask description input -->
     <EditText
-        android:id="@+id/editTextTaskDescription"
+        android:id="@+id/editTextTaskTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="start"
+        android:hint="@string/edit_task_title"
+        android:paddingBottom="@dimen/activity_horizontal_margin" />
+
+    <EditText
+        android:id="@+id/editTextTaskDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:hint="@string/edit_task_description"
         android:paddingBottom="@dimen/activity_horizontal_margin" />
 
@@ -97,7 +104,7 @@
         android:id="@+id/editDate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter Date" />
+        android:hint="Enter Date (dd/mm/yyyy)" />
 
     <Button
         android:id="@+id/saveButton"

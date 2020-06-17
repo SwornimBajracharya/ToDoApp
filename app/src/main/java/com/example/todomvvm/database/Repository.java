@@ -17,7 +17,7 @@ public class Repository {
     }
 
     public LiveData<TaskEntry> getTaskById(int taskId){
-        return dao.loadTAskById(taskId);
+        return dao.loadTaskById(taskId);
     }
 
     public void updateTask(final TaskEntry task){
