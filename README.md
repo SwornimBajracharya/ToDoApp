@@ -5,7 +5,8 @@ This app was built over starter code from repo: https://github.com/binay-shah/an
 
 Preview:
 insert flow <br>
-![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif)
+![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif) <br>
+
 type date<br>
 ![](https://im3.ezgif.com/tmp/ezgif-3-db1e14a730b0.gif) <br>
 
