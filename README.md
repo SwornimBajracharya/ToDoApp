@@ -6,13 +6,16 @@ This app was built over starter code from repo: https://github.com/binay-shah/an
 Preview:
 
 insert flow <br>
-
 ![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif) <br>
-Starting
 
-![](https://i.ibb.co/6skbH4q/Screenshot-1592415385.png =250x250)
+type date<br>
+![](https://im3.ezgif.com/tmp/ezgif-3-db1e14a730b0.gif) <br>
 
-https://ibb.co/HgjYtr9
+
+swipe to delete<br>
+![](https://im3.ezgif.com/tmp/ezgif-3-59a1c8ff6f86.gif) <br>
+
+![alt text](http://url/to/img.png)
 
 Add new task
 https://ibb.co/c2rxBLH
@@ -27,9 +30,4 @@ https://ibb.co/HDttMxR
 
 
 
-type date
-https://im3.ezgif.com/tmp/ezgif-3-db1e14a730b0.gif
 
-swipe ti delete
-https://im3.ezgif.com/tmp/ezgif-3-59a1c8ff6f86.gif
-![alt text](http://url/to/img.png)
