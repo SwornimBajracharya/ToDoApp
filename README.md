@@ -5,6 +5,8 @@ This app was built over starter code from repo: https://github.com/binay-shah/an
 
 Preview:
 
+insert flow 
+![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif)
 Starting
 
 ![](https://i.ibb.co/6skbH4q/Screenshot-1592415385.png =250x250)
@@ -22,8 +24,7 @@ https://ibb.co/zNc551x
 Swipe to delete
 https://ibb.co/HDttMxR
 
-insert flow 
-https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif
+
 
 type date
 https://im3.ezgif.com/tmp/ezgif-3-db1e14a730b0.gif
