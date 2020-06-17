@@ -7,7 +7,8 @@ Preview:
 
 <ul> 
   <li>insert flow <br>
-![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif)</li>
+![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif)
+  </li>
   <li>type date<br>
 ![](https://im3.ezgif.com/tmp/ezgif-3-db1e14a730b0.gif) <br>
 </li>
