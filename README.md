@@ -6,7 +6,8 @@ This app was built over starter code from repo: https://github.com/binay-shah/an
 Preview:
 
 Starting
-![alt text](https://i.ibb.co/6skbH4q/Screenshot-1592415385.png)
+
+![](https://i.ibb.co/6skbH4q/Screenshot-1592415385.png =250x250)
 
 https://ibb.co/HgjYtr9
 
