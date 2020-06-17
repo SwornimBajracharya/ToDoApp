@@ -5,8 +5,9 @@ This app was built over starter code from repo: https://github.com/binay-shah/an
 
 Preview:
 
-insert flow 
-![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif)
+insert flow <br>
+
+![](https://im3.ezgif.com/tmp/ezgif-3-1fa9d17cd801.gif) <br>
 Starting
 
 ![](https://i.ibb.co/6skbH4q/Screenshot-1592415385.png =250x250)
