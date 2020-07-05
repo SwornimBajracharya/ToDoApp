@@ -14,8 +14,7 @@ swipe to delete<br>
 ![](https://im3.ezgif.com/tmp/ezgif-3-59a1c8ff6f86.gif) <br>
 
 Some snippets from the app: <br>
-Add new task: <img src="i.ibb.co/qmrxS5f/Screenshot-1592415344.png" alt="drawing" style="width:200px; height:200px;"/>
-![](https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png =250x250) <br>
+![](https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png)<!-- .element height="50%" width="50%" --> <br>
 https://ibb.co/c2rxBLH <br>
 
 Filling values: 
