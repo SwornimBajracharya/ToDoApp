@@ -15,23 +15,23 @@ swipe to delete<br>
 
 Some snippets from the app: <br>
 Add new task: 
-![] (https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png) <br>
+![](https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png) <br>
 https://ibb.co/c2rxBLH <br>
 
 Filling values: 
-![] (https://i.ibb.co/h1SkG9R/Screenshot-1592415909.png) <br
+![](https://i.ibb.co/h1SkG9R/Screenshot-1592415909.png) <br>
 https://ibb.co/WpLQr5W <br>
 
 Calendar for due date: 
-![] (https://i.ibb.co/mhPgk4H/Screenshot-1592415927.png) <br
+![](https://i.ibb.co/mhPgk4H/Screenshot-1592415927.png) <br>
 https://ibb.co/JrSgVHz <br>
 
 Task list: 
-![] (https://i.ibb.co/ZNsJJ3X/Screenshot-1592415914.png) <br
+![](https://i.ibb.co/ZNsJJ3X/Screenshot-1592415914.png) <br>
 https://ibb.co/zNc551x <br>
 
 Swipe to delete: 
-![] (https://i.ibb.co/0jCCWF1/Screenshot-1592415948.png) <br
+![](https://i.ibb.co/0jCCWF1/Screenshot-1592415948.png) <br>
 https://ibb.co/HDttMxR <br>
 
 
