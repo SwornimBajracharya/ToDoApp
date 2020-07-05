@@ -14,7 +14,7 @@ swipe to delete<br>
 ![](https://im3.ezgif.com/tmp/ezgif-3-59a1c8ff6f86.gif) <br>
 
 Some snippets from the app: <br>
-<img src="https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png" style="width:250px; height:250px">
+<img src="https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png" style="width:100px; height:100px">
 ![](https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png)<!-- .element height="50%" width="50%" --> <br>
 https://ibb.co/c2rxBLH <br>
 
