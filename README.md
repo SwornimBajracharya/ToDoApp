@@ -14,26 +14,35 @@ swipe to delete<br>
 ![](https://im3.ezgif.com/tmp/ezgif-3-59a1c8ff6f86.gif) <br>
 
 Some snippets from the app: <br>
-<img src="https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png" style="width:100px; height:100px">
-![](https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png)<!-- .element height="50%" width="50%" --> <br>
+<!-- <img src="https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png" style="width:100px; height:100px"> -->
+Add New Task
 https://ibb.co/c2rxBLH <br>
 
 Filling values: 
-![](https://i.ibb.co/h1SkG9R/Screenshot-1592415909.png =250x250) <br>
 https://ibb.co/WpLQr5W <br>
 
 Calendar for due date: 
-![](https://i.ibb.co/mhPgk4H/Screenshot-1592415927.png =250x250) <br>
 https://ibb.co/JrSgVHz <br>
 
 Task list: 
-![](https://i.ibb.co/ZNsJJ3X/Screenshot-1592415914.png =250x250) <br>
 https://ibb.co/zNc551x <br>
 
 Swipe to delete: 
-![](https://i.ibb.co/0jCCWF1/Screenshot-1592415948.png =250x250) <br>
 https://ibb.co/HDttMxR <br>
 
+Add New Task
+![](https://i.ibb.co/qmrxS5f/Screenshot-1592415344.png)<!-- .element height="50%" width="50%" --> <br>
 
+Filling values: 
+![](https://i.ibb.co/h1SkG9R/Screenshot-1592415909.png) <br>
+
+Calendar for due date: 
+![](https://i.ibb.co/mhPgk4H/Screenshot-1592415927.png) <br>
+
+TaskList:
+![](https://i.ibb.co/ZNsJJ3X/Screenshot-1592415914.png) <br>
+
+Swipe to delete:
+![](https://i.ibb.co/0jCCWF1/Screenshot-1592415948.png) <br>
 
 
